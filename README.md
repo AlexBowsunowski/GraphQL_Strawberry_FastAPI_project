@@ -1,0 +1,1 @@
+# GraphQL_Strawberry_FastAPI_project
